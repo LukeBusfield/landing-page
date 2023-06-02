@@ -67,7 +67,7 @@
 #signature{
     font-style: normal;
     font-weight: bold;  
-    margin-left: 40%; 
+    margin-left: 60%; 
     font-size: 24px; 
 }
 #callToAction{
@@ -76,15 +76,15 @@
     display: flex;
     color:#E5E7EB;
     border-radius: 10px;
-    padding: 50px;
+    padding: 20px;
     padding-left: 216px;
     padding-right: 216px;
     font-size: 32px;
     font-weight: bold;
     justify-content: space-between;
 }
-#calltoActionLeftSide{
-
+#mainTextCallToAction{
+    margin-bottom: 0px;
 }
 #secondaryTextCallToAction{
     margin-top: 0px;
@@ -93,6 +93,9 @@
     color:#F9FAF8;
 }
 #signUpCallToAction{
+    margin-bottom: 50px;
+    margin-top: 50px;
+    margin-right: 150px;
     border: 2px solid white;
     border-radius: 10px;
 }
